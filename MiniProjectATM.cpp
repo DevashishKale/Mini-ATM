@@ -15,7 +15,7 @@ using namespace std;
 class atm										// class atm 
 {
 private:										// private member varibles
-	long int account_No;
+	long int account_No;//account number has to be taken in long int REMEMBER!!
 	string name;
 	int PIN;
 	double balance;

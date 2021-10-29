@@ -1,3 +1,4 @@
+//header files
 #include<conio.h>
 #include<iostream>
 #include<string>
@@ -111,7 +112,7 @@ int main()
 	// created User ( object )
 	atm user1;
 	// Set User Details ( into object )         ( Setting Default Data )
-	user1.setData(1234567, "Tim", 1111, 45000.90, "9087654321");
+	user1.setData(1234567, "Deva", 1111, 45000.90, "9999999999");
 
 
 	do
